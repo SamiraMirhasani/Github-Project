@@ -52,6 +52,7 @@ li {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  margin-top: 20px;
 }
 .col-6 {
   -ms-flex: 0 0 50%;
